@@ -6,10 +6,10 @@ About me:
 
 Skills:
 - Python
-- Flask, Django
+- Flask, Django, DRF
 - PostgreSQL
 - Git
-- Pytest
+- Pytest, unittest
 - HTML, CSS
 - Poetry, uv
 - Github Actions
