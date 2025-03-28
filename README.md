@@ -1,8 +1,7 @@
 About me:
-- Hi! My name is Alisa. I am a beginner Python developer
+- Hi! My name is Alisa. I am a Python developer
 - Have a degree in building construction
 - Learning Django
-- Currently working on [Page Analyzer](https://python-project-83-rkj1.onrender.com)
 
 Skills:
 - Python
@@ -12,8 +11,6 @@ Skills:
 - Pytest, unittest
 - HTML, CSS
 - Poetry, uv
-- Github Actions
-- Bash
 - Linux, MacOS
 
 <!--
