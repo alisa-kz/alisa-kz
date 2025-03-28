@@ -1,7 +1,6 @@
 About me:
-- Hi! My name is Alisa. I am a Python developer
+- Hi! My name is Alisa. I'm currently learning Python
 - Have a degree in building construction
-- Learning Django
 
 Skills:
 - Python
@@ -11,7 +10,6 @@ Skills:
 - Pytest, unittest
 - HTML, CSS
 - Poetry, uv
-- Linux, MacOS
 
 <!--
 **alisa-kz/alisa-kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
