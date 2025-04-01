@@ -1,5 +1,6 @@
 About me:
-- Hi! My name is Alisa. I'm currently learning Python
+- Hi! I'm Alisa
+- Learning Python
 - Have a degree in building construction
 
 Skills:
