@@ -1,16 +1,22 @@
 About me:
 - Hi! I'm Alisa
-- Learning Python
+- Learning QA
 - Have a degree in building construction
 
 Skills:
+- Software testing
+- PostgreSQL
+- Postman, DevTools
+- Swagger, REST API
+- Git, Github Actions
+- Selenium
+- Pytest, unittest
 - Python
 - Flask, Django, DRF
-- PostgreSQL
-- Git
-- Pytest, unittest
+- Linux CLI
 - HTML, CSS
 - Poetry, uv
+- HTTP
 
 <!--
 **alisa-kz/alisa-kz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
