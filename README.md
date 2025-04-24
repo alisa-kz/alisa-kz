@@ -1,6 +1,6 @@
 About me:
 - Hi! I'm Alisa
-- Learning QA
+- Learning software testing
 - Have a degree in building construction
 
 Skills:
